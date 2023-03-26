@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+.flag {
+  font-family: Roboto, sans-serif;
+  font-weight: 700;
+  width: 30px;
+  margin-right: 10px;
+}
+
+.country-list {
+  list-style-type: none;
+  padding-left: 25;
+}
+.country-list li {
+  font-family: Roboto, sans-serif;
+  margin-bottom: 20px;
+  font-weight: 600;
+}
+
+.country-header {
+  display: flex;
+}
+
+.title {
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.list-countries {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.list-countries li span {
+  font-weight: 700;
+}
